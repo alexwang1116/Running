@@ -7,7 +7,39 @@
 
 3. 6000 steps each day. 
 
-## Schedule
-2018.12.3 **Get!**
+## Schedule (In Toronto time)
 
-2018.12.4 *Unfinished*
+### November
+
+
+
+
+----------
+
+
+> `2018.11.26 Mon` **Get!**
+> 
+> `2018.11.27 Tue` *Unfinished*
+> 
+> `2018.11.28 Wed` **Get!**
+> 
+> `2018.11.29 Thu` **Get!**
+> 
+> `2018.11.30 Fri` **Get!**
+
+### December
+
+> `2018.12.01 Sat` **Get!**
+> 
+> `2018.12.02 Sun` *Unfinished*
+
+
+
+----------
+
+
+
+
+> `2018.12.03 Mon` **Get!**
+> 
+> `2018.12.04 Tue` *Unfinished*
