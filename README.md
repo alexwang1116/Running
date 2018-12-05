@@ -7,5 +7,7 @@
 
 3. 6000 steps each day. 
 
- 
+## Schedule
+2018.12.3 **Get!**
 
+2018.12.4 *Unfinished*
