@@ -126,3 +126,5 @@
 > [`2018.12.03 Mon` **Get!**](https://github.com/alexwang1116/Running/blob/master/2018.12.3%20program%20done.md)
 > 
 > [`2018.12.04 Tue` <font color="#dd0000">*Unfinished*</font><br />](https://github.com/alexwang1116/Running/blob/master/2018.12.4%20program%20not%20done.md)
+> 
+> [`2018.12.05 Wed` **Get!**](https://github.com/alexwang1116/Running/blob/master/2018.12.5%20program%20done.md)
