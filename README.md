@@ -135,7 +135,25 @@
 > 
 > [`2018.12.08 Sat` <font color="#dd0000">*Unfinished*</font><br />](https://github.com/alexwang1116/Running/blob/master/2018.12.08%20program%20not%20done.md)
 > 
-> `2018.12.09 Sun`
+> [`2018.12.09 Sun` **Get!**](https://github.com/alexwang1116/Running/blob/master/2018.12.09%20program%20done.md)
+
+----------
+
+> `2018.12.10 Mon` 
+> 
+> `2018.12.11 Tue` 
+> 
+> `2018.12.12 Wed` 
+> 
+> `2018.12.13 Thu` 
+> 
+> `2018.12.14 Fri` 
+
+> `2018.12.15 Sat` 
+> 
+> `2018.12.16 Sun` 
 
 
 ----------
+
+
