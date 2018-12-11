@@ -139,7 +139,7 @@
 
 ----------
 
-> `2018.12.10 Mon` 
+> [`2018.12.10 Mon` **Get!**](https://github.com/alexwang1116/Running/blob/master/2018.12.10%20program%20done.md)
 > 
 > `2018.12.11 Tue` 
 > 
