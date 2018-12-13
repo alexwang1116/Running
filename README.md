@@ -143,7 +143,7 @@
 > 
 > [`2018.12.11 Tue` **Get!**](https://github.com/alexwang1116/Running/blob/master/2018.12.11%20program%20done.md) 
 > 
-> `2018.12.12 Wed` 
+> [`2018.12.12 Wed` **Get!**](https://github.com/alexwang1116/Running/blob/master/2018.12.12%20program%20done.md) 
 > 
 > `2018.12.13 Thu` 
 > 
@@ -152,6 +152,24 @@
 > `2018.12.15 Sat` 
 > 
 > `2018.12.16 Sun` 
+
+
+----------
+
+
+> `2018.12.17 Mon`
+> 
+> `2018.12.18 Tue` 
+> 
+> `2018.12.19 Wed`
+> 
+> `2018.12.20 Thu` 
+> 
+> `2018.12.21 Fri` 
+
+> `2018.12.22 Sat` 
+> 
+> `2018.12.23 Sun`
 
 
 ----------
