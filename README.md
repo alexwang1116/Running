@@ -149,7 +149,7 @@
 > 
 > [`2018.12.14 Fri` **Get!**](https://github.com/alexwang1116/Running/blob/master/2018.12.14%20program%20done.md) 
 > 
-> `2018.12.15 Sat` 
+> [`2018.12.15 Sat` **Get!**](https://github.com/alexwang1116/Running/blob/master/2018.12.15%20program%20done.md) 
 > 
 > `2018.12.16 Sun` 
 
