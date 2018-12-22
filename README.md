@@ -7,13 +7,15 @@
 
 3. 6000 steps each day. 
 
-## Schedule (In Toronto time update: 12/21/2018 11:22:56 PM  )
+## Schedule (In Toronto time update: 12/21/2018 11:28:38 PM   )
 
 ![](https://www.hellostudy.com.tw/wp-content/uploads/2016/08/5670d229529fd.jpg)
 
 ### October
 
 
+
+> #### Week 1
 
 > `2018.10.22 Mon` **Get!** 
 > 
@@ -31,6 +33,9 @@
 
 ----------
 
+
+
+> #### Week 2
 > `2018.10.29 Mon` **Get!**
 > 
 > `2018.10.30 Tue` **Get!**
@@ -50,6 +55,9 @@
 ----------
 
 
+
+> #### Week 3
+
 > `2018.11.05 Mon` **Get!**
 > 
 > `2018.11.06 Tue` <font color="#dd0000">*Unfinished*</font><br /> 
@@ -66,6 +74,8 @@
 
 ----------
 
+> #### Week 4
+> 
 > `2018.11.12 Mon` **Get!**
 > 
 > `2018.11.13 Tue` **Get!**
@@ -82,7 +92,8 @@
 
 ----------
 
-
+> #### Week 5
+> 
 > `2018.11.19 Mon` **Get!**
 > 
 > `2018.11.20 Tue` **Get!**
@@ -99,7 +110,8 @@
 
 ----------
 
-
+> #### Week 6
+> 
 > `2018.11.26 Mon` **Get!**
 > 
 > `2018.11.27 Tue` <font color="#dd0000">*Unfinished*</font><br />
@@ -121,7 +133,7 @@
 ----------
 
 
-
+> #### Week 7
 
 > [`2018.12.03 Mon` **Get!**](https://github.com/alexwang1116/Running/blob/master/2018.12.3%20program%20done.md)
 > 
@@ -139,6 +151,8 @@
 
 ----------
 
+> #### Week 8
+> 
 > [`2018.12.10 Mon` **Get!**](https://github.com/alexwang1116/Running/blob/master/2018.12.10%20program%20done.md)
 > 
 > [`2018.12.11 Tue` **Get!**](https://github.com/alexwang1116/Running/blob/master/2018.12.11%20program%20done.md) 
@@ -156,7 +170,8 @@
 
 ----------
 
-
+> #### Week 9
+> 
 > [`2018.12.17 Mon` **Get!**](https://github.com/alexwang1116/Running/blob/master/2018.12.17%20program%20done.md)
 > 
 > [`2018.12.18 Tue` **Get!**](https://github.com/alexwang1116/Running/blob/master/2018.12.18%20program%20done.md)
@@ -175,7 +190,8 @@
 ----------
 
 
-
+> #### Week 10
+> 
 > `2018.12.24 Mon`
 > 
 > `2018.12.25 Tue` 
