@@ -194,7 +194,7 @@
 > 
 > [`2018.12.24 Mon` **Get!** ](https://github.com/alexwang1116/Running/blob/master/2018.12.24%20program%20done.md)
 > 
-> [`2018.12.25 Tue` **Get!** ](https://github.com/alexwang1116/Running/blob/master/2018.12.25%20program%20done.md)
+> [`2018.12.25 Tue` **Get!** ](https://github.com/alexwang1116/Running/blob/master/2018.12.25%20program%20done.md) **Merry Christmas!**
 > 
 > `2018.12.26 Wed`
 > 
