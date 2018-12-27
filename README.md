@@ -196,7 +196,7 @@
 > 
 > [`2018.12.25 Tue` **Get!** ](https://github.com/alexwang1116/Running/blob/master/2018.12.25%20program%20done.md) **Merry Christmas!**
 > 
-> `2018.12.26 Wed`
+> [`2018.12.26 Wed` **Get!**](https://github.com/alexwang1116/Running/blob/master/2018.12.26%20program%20done.md) **Boxing Day**
 > 
 > `2018.12.27 Thu` 
 > 
