@@ -7,7 +7,7 @@
 
 3. 6000 steps each day. 
 
-## Schedule (In Toronto time update: 1/13/2019 11:28:36 PM)
+## Schedule (In Toronto time update: 1/14/2019 11:52:03 PM )
 
 ![](https://www.hellostudy.com.tw/wp-content/uploads/2016/08/5670d229529fd.jpg)
 
@@ -252,7 +252,7 @@
 
 > #### Week 13
 > 
-> `2018.01.14 Mon`
+> [`2018.01.14 Mon` **Get!**](https://github.com/alexwang1116/Running/blob/master/2019.01.14%20program%20done.md)
 > 
 > `2019.01.15 Tue` 
 > 
