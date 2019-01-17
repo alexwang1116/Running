@@ -7,7 +7,7 @@
 
 3. 6000 steps each day. 
 
-## Schedule (In Toronto time update: 1/15/2019 11:09:41 PM)
+## Schedule (In Toronto time update: 1/16/2019 11:04:46 PM)
 
 ![](https://www.hellostudy.com.tw/wp-content/uploads/2016/08/5670d229529fd.jpg)
 
@@ -256,7 +256,7 @@
 > 
 > [`2019.01.15 Tue` **Get!**](https://github.com/alexwang1116/Running/blob/master/2019.01.15%20program%20done.md) 
 > 
-> `2018.01.16 Wed`
+> [`2018.01.16 Wed` **Get!**](https://github.com/alexwang1116/Running/blob/master/2019.01.16%20program%20done.md)
 > 
 > `2018.01.17 Thu` 
 > 
@@ -288,3 +288,42 @@
 
 ----------
 
+> #### Week 15
+> 
+> `2018.01.28 Mon`
+> 
+> `2019.01.29 Tue` 
+> 
+> `2018.01.30 Wed`
+> 
+> `2018.01.31 Thu` 
+
+
+### February
+
+> `2018.02.01 Fri` 
+> 
+> `2018.02.02 Sat` 
+> 
+> `2018.02.03 Sun`
+
+
+----------
+> #### Week 16
+> 
+> `2018.02.04 Mon` Spring Festival
+> 
+> `2019.02.05 Tue` 
+> 
+> `2018.02.06 Wed`
+> 
+> `2018.02.07 Thu` 
+> 
+> `2018.02.08 Fri` 
+> 
+> `2018.02.09 Sat` 
+> 
+> `2018.02.10 Sun`
+
+
+----------
