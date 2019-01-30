@@ -292,7 +292,7 @@
 > 
 > `2018.01.28 Mon` ***Stopped by the bad weather***
 > 
-> `2019.01.29 Tue` 
+> `2019.01.29 Tue` ***Stopped by the bad weather***
 > 
 > `2018.01.30 Wed`
 > 
