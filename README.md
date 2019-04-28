@@ -7,7 +7,7 @@
 
 3. 6000 steps each day. 
 
-## Schedule (In Toronto time update: 4/26/2019 10:11:14 PM)
+## Schedule (In Toronto time update: 4/28/2019 7:27:03 PM)
 
 ![](https://www.hellostudy.com.tw/wp-content/uploads/2016/08/5670d229529fd.jpg)
 
@@ -513,9 +513,9 @@
 > 
 > [`2018.04.19 Fri` **Get!**](https://github.com/alexwang1116/Running/blob/master/2019.04.19%20program%20done.md) 
 > 
-> [`2018.04.20 Sat`**Unfinished**](https://github.com/alexwang1116/Running/blob/master/2019.04.20%20program%20not%20done.md) 
+> [`2018.04.20 Sat` **Unfinished**](https://github.com/alexwang1116/Running/blob/master/2019.04.20%20program%20not%20done.md) 
 > 
-> [`2018.04.21 Sun`**Unfinished**](https://github.com/alexwang1116/Running/blob/master/2019.04.21%20program%20not%20done.md)
+> [`2018.04.21 Sun` **Unfinished**](https://github.com/alexwang1116/Running/blob/master/2019.04.21%20program%20not%20done.md)
 
 ----------
 
@@ -523,7 +523,7 @@
 > 
 > [`2018.04.22 Mon` **Get!**](https://github.com/alexwang1116/Running/blob/master/2019.04.22%20program%20done.md) 
 > 
-> [`2019.04.23 Tue`**Unfinished**](https://github.com/alexwang1116/Running/blob/master/2019.04.23%20program%20done.md) 
+> [`2019.04.23 Tue` **Unfinished**](https://github.com/alexwang1116/Running/blob/master/2019.04.23%20program%20done.md) 
 > 
 > [`2018.04.24 Wed` **Get!**](https://github.com/alexwang1116/Running/blob/master/2019.04.24%20program%20done.md)
 > 
@@ -531,7 +531,7 @@
 > 
 > [`2018.04.26 Fri` **Get!**](https://github.com/alexwang1116/Running/blob/master/2019.04.26%20program%20done.md) 
 > 
-> `2018.04.27 Sat` 
+> [`2018.04.27 Sat` **Unfinished**](https://github.com/alexwang1116/Running/blob/master/2019.04.27%20program%20not%20done.md) 
 > 
 > `2018.04.28 Sun`
 
